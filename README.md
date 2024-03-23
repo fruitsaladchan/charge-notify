@@ -1,14 +1,8 @@
 # charge-notify
 
-chmod +X the script
-be sure to exec on startup for your wm
+## how to use
 
-i3
-
-hyprland
-
-
-```js
+```
 
 - chmod +x the script
 
