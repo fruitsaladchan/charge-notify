@@ -4,6 +4,10 @@
 
 ### Install a notifaction dameon like dunst
 
+```
+yay -S dunst
+```
+
 ### Make the script executable
 
 ```
