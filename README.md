@@ -9,8 +9,9 @@ hyprland
 
 
 ```js
- // General
- *chmod +x the script
-start the script on startup through your window manager
+
+- chmod +x the script
+
+- start the script on startup through your window manager
 
 ```
