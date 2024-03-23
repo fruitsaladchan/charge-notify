@@ -13,7 +13,7 @@
 ```
 - for i3wm
 
-exec /path/to/script
+exec --no-startup ~/Path/To/Script
 
 - for hyprland
 
