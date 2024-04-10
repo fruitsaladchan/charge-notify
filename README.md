@@ -24,3 +24,6 @@ exec --no-startup ~/Path/To/Script
 exec-once = ~/Path/To/Script
 
 ```
+
+![screenshot-20240410-1021](https://github.com/fruitsaladchan/charge-notify/assets/124645742/d990c9f8-a9e8-48ae-9a93-234345162974)
+![screenshot-20240410-1022](https://github.com/fruitsaladchan/charge-notify/assets/124645742/49a5dd2a-c64a-40d7-973e-bd4fc56f0e4e)
