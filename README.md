@@ -1,6 +1,6 @@
 # charge-notify
 
-script the displays a notification when it detects charger being plugged in / removed 
+script that displays a notification when it detects charger being plugged in / removed 
 
 ## how to use
 
