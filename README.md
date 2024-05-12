@@ -1,5 +1,7 @@
 # charge-notify
 
+script the displays a notification when it detects charger being plugged in
+
 ## how to use
 
 ### Install a notifaction dameon like dunst
