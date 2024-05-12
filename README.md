@@ -11,7 +11,7 @@ yay -S dunst
 ### clone this repo or jus copy the script 
 
 ```
-~git clone https://github.com/fruitsaladchan/charge-notify
+git clone https://github.com/fruitsaladchan/charge-notify
 ```
 
 ### Make the script executable
